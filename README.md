@@ -1,2 +1,3 @@
-# blog-template
-bootstrap blog template
+# Elechi Pro
+Blog Template
+
